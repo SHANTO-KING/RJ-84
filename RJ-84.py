@@ -839,7 +839,6 @@ def m3(ids,names,passlist,fbcr):
 
 			ua=random.choice(xx)
 
-            ua = 'Davik/2.1.0 (Linux; Android 13; TECNO CK6 Build/TP1A.220624.014; wv) [FBAN/MessengerLite;FBAV/429.0.0.27.114;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/291009976;FBCR/;FBMF/Tecno;FBBD/Redmi;FBDV/23049RAD8C;FBSV/13;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.25,height=1024,width=2048};]'
             ua =  'Davik/2.1.0 (Linux; Android 10; CLT-L29 Build/HUAWEICLT-L29; wv) [FBAN/MessengerLite;FBAV/429.0.0.27.114;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/444811002;FBCR/;FBMF/Huawei;FBBD/Samsung;FBDV/M2012K11C;FBSV/13;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.25,height=1024,width=2048};]'
             ua =  'Davik/2.1.0 (Linux; Android 10; SM-A715F Build/QP1A.190711.020; wv) [FBAN/MessengerLite;FBAV/429.0.0.27.114;FBPN/com.facebook.mlite;FBLC/en_GB;FBBV/444811002;FBCR/;FBMF/Samsung;FBBD/Xiaomi;FBDV/M2012K11C;FBSV/13;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=2.25,height=1024,width=2048};]'
 
